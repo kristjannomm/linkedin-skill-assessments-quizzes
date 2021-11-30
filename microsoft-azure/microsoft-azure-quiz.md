@@ -119,7 +119,7 @@
 
 - [ ] Create a service principal in Azure then assign the service principal AKS.
 - [ ] Add users an Azure AD security group. Then assign the group permissions to AKS.
-- [x] Create a service principal in Azure AD. Then add user to the AKS security group.
+- [x] Create a service principal in Azure AD. Then add users to the AKS security group.
 - [ ] Create an App ID in Azure AD. Then create a service principal for the server app.
 
 #### Q17. Which access protocol does Azure Files not support?
